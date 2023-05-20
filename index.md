@@ -6,3 +6,7 @@
 $ git init
 Initialized empyt Git repository in /Users/skills/Projects/AkanshaSilva/.git/
 ```
+- [x] Finished adding headers to text
+- [x] added a image
+- [x] successfully added code
+- [ ] step 5 is still left
